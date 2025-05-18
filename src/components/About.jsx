@@ -17,7 +17,7 @@ function About() {
  </p>
                 <p>Selain itu, saya juga gemar menulis puisi. Bagi saya, menulis adalah cara untuk meresapi momen-momen kecil yang sering terlewatkan, mengolah perasaan menjadi kata, dan menyampaikan gagasan dengan cara yang indah. Puisi memberi ruang bagi saya untuk merefleksikan pengalaman, sekaligus melatih kedisiplinan dalam menyusun diksi dan makna.
 </p>
-<p>Saya percaya bahwa kreativitas bukan hanya milik seniman, tapi bekal berharga dalam menyelesaikan masalah, berpikir terbuka, dan berkomunikasi secara autentik. Dengan latar belakang ini, saya terbiasa menghadapi tantangan dengan cara yang unik dan terbuka terhadap berbagai perspektif baru</p>
+<p>Saya percaya bahwa kreativitas bukan hanya milik seniman, tapi bekal berharga dalam menyelesaikan masalah, berpikir terbuka, dan berkomunikasi secara autentik. Dengan latar belakang ini, saya terbiasa menghadapi tantangan dengan cara yang unik dan terbuka terhadap berbagai perspektif baru</p>
                 <h4>Programming Language & Tools</h4>
                 <div className="skills">
                     <FaPhp /><FaHtml5 /><SiJavascript /><FaReact /><MdOutlineCss />
