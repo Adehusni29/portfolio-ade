@@ -13,8 +13,11 @@ function About() {
         <section id="about">
             <div className='wrapper'>
                 <h3>About</h3>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad, alias.</p>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatibus, saepe velit, blanditiis suscipit odio non architecto ratione magnam cum porro id nesciunt repudiandae optio assumenda ab ducimus. Nesciunt, eligendi ullam!</p>
+                <p>Saya adalah pribadi yang mencintai dunia seni, terutama teater dan puisi. Bermain teater bukan hanya hobi bagi saya, tetapi juga wadah untuk belajar memahami emosi, membangun kepekaan sosial, dan bekerja sama dalam tim. Lewat panggung, saya belajar menjadi pendengar yang baik, memperhatikan detail, dan berani tampil di depan banyak orang—keterampilan yang saya yakini sangat berguna di berbagai aspek kehidupan.
+ </p>
+                <p>Selain itu, saya juga gemar menulis puisi. Bagi saya, menulis adalah cara untuk meresapi momen-momen kecil yang sering terlewatkan, mengolah perasaan menjadi kata, dan menyampaikan gagasan dengan cara yang indah. Puisi memberi ruang bagi saya untuk merefleksikan pengalaman, sekaligus melatih kedisiplinan dalam menyusun diksi dan makna.
+</p>
+<p>Saya percaya bahwa kreativitas bukan hanya milik seniman, tapi bekal berharga dalam menyelesaikan masalah, berpikir terbuka, dan berkomunikasi secara autentik. Dengan latar belakang ini, saya terbiasa menghadapi tantangan dengan cara yang unik dan terbuka terhadap berbagai perspektif baru</p>
                 <h4>Programming Language & Tools</h4>
                 <div className="skills">
                     <FaPhp /><FaHtml5 /><SiJavascript /><FaReact /><MdOutlineCss />
