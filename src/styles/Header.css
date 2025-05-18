@@ -22,6 +22,11 @@ header {
 }
 .header-jumbotron > img {
   width: 150px;
+  height: 150px;           /* Menjaga rasio 1:1 */
+  object-fit: cover;       /* Memastikan gambar tidak gepeng */
+  border-radius: 50%;      /* Membuat bingkai bulat */
+  border: 4px solid #fff;  /* Bingkai putih */
+  box-shadow: 0 0 10px #22283155;
 }
 .header-jumbotron > h3 {
   color: #fff;
