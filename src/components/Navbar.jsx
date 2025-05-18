@@ -20,7 +20,7 @@ function Navbar() {
         <nav>
             <div className="wrapper">
                 <div className="logo">
-                    <Link to="/">Ade Husni Mubaraq</Link>
+                    <Link to="/">Ade Husni Mubaroq</Link>
                 </div>
                 <button onClick={tampilMenu}>
                     {
